@@ -1,0 +1,33 @@
+.divContador{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0,0.7);
+    align-items: center;
+    max-width: 100%;
+
+}
+h4 {
+    color:white;
+}
+
+.divMasMenos {
+
+    display: flex;
+    justify-content:space-between;
+    width: auto;
+    padding: 5px 20px;
+}
+
+.divMasMenos button {
+    
+    width: 50px;
+    justify-content:space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.btnCarrito {
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px 20px;
+}

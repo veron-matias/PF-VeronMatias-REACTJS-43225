@@ -1,0 +1,7 @@
+.Spinner {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(58, 65, 131, 0.5);
+    }

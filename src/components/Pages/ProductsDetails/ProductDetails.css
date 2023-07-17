@@ -1,0 +1,26 @@
+.descripcionProducto{
+    display: grid;
+    background-color: rgb(0, 0, 0,0.7);
+    max-width: 480px;
+    min-height: 460px;
+}
+.divProducto {
+    margin-bottom: 25px;
+}
+p {
+    margin: 25px;
+}
+
+.ProductsSectionDetails {
+	display: flex;
+	justify-content: center;
+
+
+}
+
+.tituloSpan {
+    padding-top: 50px;
+    font-size: 3vh;
+    font-weight: 400;
+    text-decoration: underline;
+}
