@@ -1,3 +1,5 @@
+[![Alt text](https://img.youtube.com/vi/89fnkhV0ogs/0.jpg)](https://www.youtube.com/watch?v=89fnkhV0ogs)
+
 VIDEO YOUTUBE: 
 https://youtu.be/89fnkhV0ogs
 
