@@ -13,6 +13,7 @@ import Contact from "./components/Pages/Contact/Contact";
 import Home from './components/Pages/Home/Home';
 import Cart from './components/Pages/Cart/Cart';
 import { CartProvider } from "./Context/CartContext";
+import Checkout from './components/Checkout/Checkout';
 
 import Category from "./components/NavBar/Category/Category";
 
@@ -31,6 +32,7 @@ function App() {
         <Route path="/Category/:category" element={<Category/>} /> 
         <Route path= "/Contact" element={<Contact />} />
         <Route path= "/Cart" element={<Cart />} />
+        <Route path= "/Checkout" element={<Checkout />} />
         <Route path= "*" element={<Error />} />
       </Routes>
       <Footer/>

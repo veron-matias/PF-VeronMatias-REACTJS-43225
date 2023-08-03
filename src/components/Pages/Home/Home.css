@@ -3,3 +3,16 @@
     display: inline-block;
     padding: 25px;
 }
+.divHome h2{
+    background-color: rgba(22, 22, 22, 0.56);
+    padding: 25px;
+}
+.centerText {
+    max-width: 1480px;
+    display: inline-block;
+    background-color: rgba(22, 22, 22, 0.56);
+    padding: 40px;
+    color:white;
+    text-align: center;
+    text-align: justify;
+  }

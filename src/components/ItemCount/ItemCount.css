@@ -6,28 +6,21 @@
     max-width: 100%;
 
 }
-h4 {
-    color:white;
+
+.botones {
+    max-width: 180px;
+}
+.botones span {
+    font-size: 18px;
+    margin: 15px;
 }
 
-.divMasMenos {
-
-    display: flex;
-    justify-content:space-between;
-    width: auto;
-    padding: 5px 20px;
+.sumaresta {
+    font-size: 18px;
+    margin: 5px;
 }
 
-.divMasMenos button {
-    
-    width: 50px;
-    justify-content:space-between;
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-.btnCarrito {
-    width: 100%;
-    margin-top: 10px;
-    padding: 5px 20px;
+.sumaresta span{
+    font-size: 18px;
+    margin: 5px;
 }

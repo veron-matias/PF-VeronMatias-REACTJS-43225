@@ -1,0 +1,57 @@
+.divAux{
+    display: grid;
+    background-color: rgb(0, 0, 0,0.56);
+    max-width: auto;
+    min-height: auto;
+    color:white;
+    margin: 50px; 
+    
+}
+
+.divAux2 {
+    margin-top: 20px;
+}
+.divAux2 img {
+    margin-top: 20px;
+    max-width: 240px;
+}
+
+
+.divAux2 h4 {
+    font-size: 2.5vh;
+}
+
+.divAux h2 {
+    font-size: 4vh;
+    margin: 15px;    
+}
+.btn-carrito {
+    margin: auto;
+    width: 200px;
+    align-items: center;
+    padding: 5px;
+}
+.divAux button {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.btn-carrito a{
+    color:black;
+}
+.divVacio h2{
+    
+    margin-top: 20px;
+    color: rgb(238, 238, 101);
+    font-size: 4vh;
+}
+
+.divLink {
+    margin-top: 20px;
+    color: rgb(255, 83, 3);
+    font-size: 2.8vh;
+}
+.divVacio img {
+    margin: 20px;
+    max-width: 360px;
+}

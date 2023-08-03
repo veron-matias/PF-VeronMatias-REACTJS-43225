@@ -1,0 +1,103 @@
+.ordenOk {
+    color:white;
+}
+.ordenOk h1{
+    background-color: rgba(22, 22, 22, 0.56);
+    margin-top: 20px;
+    padding:20px 0PX ;
+}
+
+.alert {
+    padding-top: 20PX ;
+    padding-bottom: 20PX ;
+    max-width: 150%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.css-camg44-MuiPaper-root-MuiAlert-root {
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.87);
+    -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    background-color: #2e7d32;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 6px 16px;
+    color: #fff;
+    margin: auto;
+}
+
+.numOrden {
+    background-color: rgba(22, 22, 22, 0.56);
+    padding:20px ;
+}
+.numOrden strong {
+    color:rgb(255, 255, 78);
+}
+
+.numOrden a {
+    font-size: 20px;
+    color: rgb( 255, 13, 13);
+}
+
+.numOrden a:hover {
+    color:rgb(255, 255, 78);
+}
+
+/* =========================================================================================
+============== FORMULARIO ===============================================================
+========================================================================================= */
+
+.spanDatos {
+    margin-top: 15px;
+    display:flex;
+    color:white;
+    font-size: 22px;
+}
+.cajaDatos {
+    
+    display: flex;
+    min-width: 460px;
+    max-width: 50%;
+    font-size: 22px;
+}
+
+.spanError {
+    color: rgb(253, 66, 66);
+    font-size: 5vh;
+}
+
+.divTexto h2 {
+    background-color: rgba(22, 22, 22, 0.56);
+    padding-top: 20px;
+    font-size: 6vh;
+    padding-bottom: 20px;
+}
+.divTexto p {
+    color: white;
+    font-size: 18px;
+}
+
+.divForm {
+    background-color: rgba(22, 22, 22, 0.56);
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.divForm button {
+    font-size: 18px;
+    margin-top: 30px;
+    padding: 5px 15px;
+    min-width: 160px;
+}
